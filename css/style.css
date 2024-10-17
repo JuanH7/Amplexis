@@ -8,7 +8,7 @@ body {
     --color2: #462E9E;
 }
 .imagen_inicio{
-    background-image:url(/Img/fondo_inicio.png);
+    background-image:url(../Img/fondo_inicio.png);
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
